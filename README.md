@@ -11,3 +11,10 @@ No final deste projeto, ele terá que sortear uma categoria que a pessoa adicion
 What to watch is another one of my personal projects, with the aim of working with python. Furthermore, I had a list of things to watch, but i didn't know which one to choose. I'm sure there are already websites or even apps on the internet that can do this draw. But i wanted to pud it into practice and make it more my own.
 
 At the end of this project, he will have to draw a category that the person adds, then draw what he will watch according to the category and what he added in this category. It will also be able to display everything you have watched, organized by category.
+
+
+### Falta finalizar
+- [] Implementar para Web
+- [] Usuário adicionar sua categoria e seu conteúdo
+- [] Usuário ter 2 opção, ao escolher categoria, pois o filme pode ser em outro momento, diferente de série, dorama e anime
+- [] Banco de dados com os conteúdos assistidos de acordo com sua categoria
